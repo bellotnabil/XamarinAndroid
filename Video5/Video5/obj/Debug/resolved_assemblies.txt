@@ -1,0 +1,6 @@
+C:\Users\Neksze\Documents\Projects\Video5\Video5\obj\Debug\assemblies\Video5.dll
+C:\Users\Neksze\Documents\Projects\Video5\Video5\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Neksze\Documents\Projects\Video5\Video5\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Neksze\Documents\Projects\Video5\Video5\obj\Debug\assemblies\System.Core.dll
+C:\Users\Neksze\Documents\Projects\Video5\Video5\obj\Debug\assemblies\System.dll
+C:\Users\Neksze\Documents\Projects\Video5\Video5\obj\Debug\assemblies\System.Xml.dll

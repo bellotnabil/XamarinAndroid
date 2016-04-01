@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video5", "Video5\Video5.csproj", "{2381C694-733E-4A42-A043-E7259C062D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video5.UITests", "Video5.UITests\Video5.UITests.csproj", "{2F0522BA-264F-4B7D-B75F-0C47D65B2D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2381C694-733E-4A42-A043-E7259C062D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2381C694-733E-4A42-A043-E7259C062D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2381C694-733E-4A42-A043-E7259C062D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2381C694-733E-4A42-A043-E7259C062D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0522BA-264F-4B7D-B75F-0C47D65B2D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0522BA-264F-4B7D-B75F-0C47D65B2D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0522BA-264F-4B7D-B75F-0C47D65B2D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0522BA-264F-4B7D-B75F-0C47D65B2D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

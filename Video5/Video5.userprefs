@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Video5\Video5.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.169.254.109.177:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Video5\MainActivity.cs">
+    <Files>
+      <File FileName="Video5\MainActivity.cs" Line="37" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Video5 AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
