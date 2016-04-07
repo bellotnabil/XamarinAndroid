@@ -1,0 +1,11 @@
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\Video6.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\Square.OkHttp.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\Square.OkIO.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\Square.Picasso.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\System.Core.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\System.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Neksze\Documents\Projects\Video6\Video6\obj\Debug\assemblies\System.ServiceModel.Internals.dll
